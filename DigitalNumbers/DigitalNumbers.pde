@@ -14,8 +14,6 @@ int[][] lineData = {
 String text = "0123456789";
 
 void setup(){
-  println((int)'0');
-  
   size(1000, 300);
   fill(255, 50, 50);
   

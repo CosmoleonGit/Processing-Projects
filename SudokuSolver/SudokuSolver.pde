@@ -26,8 +26,6 @@ void draw() {
 }
 
 void doEvents() {
-  //println(frameRate);
-
   if (mousePressed) {
     sX = mouseX / scl;
     sY = mouseY / scl;
